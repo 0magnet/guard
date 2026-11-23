@@ -1,0 +1,18 @@
+module github.com/0magnet/guard
+
+go 1.27.3
+
+require (
+	github.com/0magnet/calvin v0.0.1-0.20261109140133-887794fc87eb
+	github.com/spf13/cobra v1.10.2
+)
+
+require (
+	github.com/0magnet/coloredcobra v1.0.4-0.20261012213101-faa6bd8f94c5 // indirect
+	github.com/fatih/color v1.19.0 // indirect
+	github.com/inconshreveable/mousetrap v1.1.0 // indirect
+	github.com/mattn/go-colorable v0.1.16 // indirect
+	github.com/mattn/go-isatty v0.0.24 // indirect
+	github.com/spf13/pflag v1.1.0 // indirect
+	golang.org/x/sys v0.50.0 // indirect
+)
